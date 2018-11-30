@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Directorio Médico</string>
+    <!-- Strings related to Registry -->
+    <string name="userRegistry">Registro de Usuarios</string>
+    <string name="medicalRegistry">Registro de Médicos</string>
+    <string name="name">Nombre</string>
+    <string name="birthDay">Fecha de nacimiento</string>
+    <string name="user">Usuario</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="chooseSpecialty">Elige una especialidad</string>
+    <string-array name="specialties">
+        <item>Médico</item>
+        <item>Nutriólogo</item>
+        <item>Psicólogo</item>
+        <item>Odontólogo</item>
+        <item>Fisioterapeuta</item>
+    </string-array>
+    <string-array name="brew_array">
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+        <item>Mocha</item>
+        <item>Caffè Americano</item>
+        <item>Cafe Zorro</item>
+    </string-array>
+</resources>
